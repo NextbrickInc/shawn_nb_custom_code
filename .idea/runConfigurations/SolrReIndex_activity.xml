@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SolrReIndex activity" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="17" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="migration.SolrReIndex" />
+    <module name="DataMigration" />
+    <option name="PROGRAM_PARAMETERS" value="https://oh1i3sol1:8443/solr http://ae1i10esd1:8983/solr &quot;&quot; activity06-06-2022 activity06-06-2022 &quot;&quot; 15000 60000 test-migration-activity.log" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="migration.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

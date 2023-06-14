@@ -1,0 +1,7 @@
+migration\SolrIndexHDFSToSOLR.class
+constants\DataMigrationConstants.class
+migration\SecureSolrJQuery.class
+migration\Test.class
+migration\SolrManagerThreaded.class
+migration\SolrReIndex.class
+migration\SolrDocWriteTest.class

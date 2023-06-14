@@ -1,0 +1,8 @@
+2023-04-15 18:20:24,488 [main] (SolrReIndex.java:125) - 
+
+***** Total NumFound Docs in :: null collection is ::0::
+
+
+2023-04-15 18:20:24,491 [main] (SolrReIndex.java:131) - 
+
+solrQuery::rows=1000&q=*:*&sort=id+desc&timeAllowed=0&cursorMark=*

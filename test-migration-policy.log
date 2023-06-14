@@ -1,0 +1,22 @@
+2023-04-15 16:31:01,745 [main] (SolrReIndex.java:123) - 
+
+***** Total NumFound Docs in :: policies06-12-2021 collection is ::1::
+
+
+2023-04-15 16:31:01,748 [main] (SolrReIndex.java:129) - 
+
+solrQuery::rows=10&q=*:*&sort=id+desc&fq=id:PAS83415883&cursorMark=*
+2023-04-15 16:31:02,126 [main] (SolrReIndex.java:133) - queryResponse size::1::QTime::371
+2023-04-15 16:31:02,161 [main] (SolrReIndex.java:163) - TargetDataInsertThread ID27
+2023-04-15 16:31:02,162 [main] (SolrReIndex.java:141) - Total Records Processed::1
+2023-04-15 16:31:02,162 [main] (SolrReIndex.java:129) - 
+
+solrQuery::rows=10&q=*:*&sort=id+desc&fq=id:PAS83415883&cursorMark=AoErUEFTODM0MTU4ODM%3D
+2023-04-15 16:31:02,548 [main] (SolrReIndex.java:133) - queryResponse size::0::QTime::358
+2023-04-15 16:31:02,548 [main] (SolrReIndex.java:147) - 
+
+*****Source Collection policies06-12-2021 NumFound ::1::
+2023-04-15 16:31:02,549 [main] (SolrReIndex.java:148) - *****Target Collection policies06-12-2021 NumFound ::1::
+2023-04-15 16:31:02,549 [main] (SolrReIndex.java:149) - *********INGESTION PROCESS FINISHED -- Total Records Processed :: 1::*********
+2023-04-15 16:31:02,549 [main] (SolrReIndex.java:150) - *********Time consumed in Seconds::2::*********
+2023-04-15 16:31:02,549 [main] (SolrReIndex.java:151) - *********Time consumed in Minutes::0::*********

@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SolrReIndex policy" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="17" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="migration.SolrReIndex" />
+    <module name="code-base" />
+    <option name="PROGRAM_PARAMETERS" value="-sss https://prd3-dujour/solr -tss https://oh1p4sol7:8443/solr -sssu SolrPrd3Admin -sssp admin -sc policies06-12-2021 -tc policies06-12-2021 -tssu SolrPrd4Admin -tssp (LX83M8cvcU9EAeccHOaPaGX2(HPaGX2(H -mr 10 -bcs 10 -lfp test-migration-policy.log -esp id:PAS83415883" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="migration.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
